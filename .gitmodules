@@ -1,0 +1,7 @@
+[submodule "LGWebOSRemote"]
+	path = LGWebOSRemote
+	url = https://github.com/aqeelarshad19/LGWebOSRemote
+[submodule "rpi_ws281x"]
+        path = rpi_ws281x
+        url = https://github.com/aqeelarshad19/rpi_ws281x
+
