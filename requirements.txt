@@ -1,0 +1,2 @@
+#Requirements for RGB LED
+rpi_ws281x
