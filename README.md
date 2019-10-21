@@ -5,4 +5,7 @@ Below are the dependecies:
 - https://github.com/jgarff/rpi_ws281x
 - https://github.com/klattimer/LGWebOSRemote 
 
+For libaray installation
+> pip install -r requirments.txt
+
 this README will be updated along with the project throughout its development.
